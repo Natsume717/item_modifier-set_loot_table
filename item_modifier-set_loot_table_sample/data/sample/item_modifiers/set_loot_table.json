@@ -1,0 +1,7 @@
+[
+  {
+    "function": "minecraft:set_loot_table",
+    "type": "minecraft:chest",
+    "name": "minecraft:chests/ancient_city"
+  }
+]
