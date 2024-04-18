@@ -1,0 +1,2 @@
+# item_modifier-set_loot_table
+item_modifierの1項目であるset_loot_tableのサンプルになります。
