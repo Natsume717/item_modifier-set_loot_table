@@ -1,8 +1,7 @@
 # item_modifier-set_loot_table
 item_modifierの1項目であるset_loot_tableのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_loot_tableで中身を決定する【item_modifier】](https://natsumake.com/item_modifier-set_loot_table/)』を参考にしてください。
 
 <h3>概要</h3>
 チェストなどに対して、ルートテーブルを適用させることが出来ます。
